@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588282333266' stop='1588282364858'>
+    <name>burgerpager Page Tests</name>
+    <title>burgerpager Page Tests</title>
+    <test-cases>
+        <test-case start='1588282333266' status='passed' stop='1588282364857'>
+            <name>should display burgerpage elements </name>
+            <title>should display burgerpage elements </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

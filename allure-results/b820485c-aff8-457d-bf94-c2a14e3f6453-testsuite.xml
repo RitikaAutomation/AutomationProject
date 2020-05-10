@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588039095389' stop='1588039100808'>
+    <name>burgerpager Page Tests</name>
+    <title>burgerpager Page Tests</title>
+    <test-cases>
+        <test-case start='1588039095389' status='pending' stop='1588039095390'>
+            <name>should display burgerpage elements </name>
+            <title>should display burgerpage elements </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1588039095390' status='passed' stop='1588039099521'>
+            <name>should display all spiderMan elements </name>
+            <title>should display all spiderMan elements </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588039099521' status='passed' stop='1588039100807'>
+            <name>login with search option should work </name>
+            <title>login with search option should work </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
