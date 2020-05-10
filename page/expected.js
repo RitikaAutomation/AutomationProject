@@ -6,6 +6,5 @@ Expected.prototype = Object.create({}, {
   loginphone: { get: function () { return element(by.id('button_login_phone')) } },
   Contnue: { get: function () { return element(by.id('button_close_profile')) } },
 
-
 })
 module.exports = Expected
